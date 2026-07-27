@@ -1,2 +1,2 @@
 # PROGRAMACIÓN III
-Este repositorio se utilizará para subir los prácticos/ejercicios/código utilizado durante las clases
+Este repositorio se utilizará para subir: prácticos/código fuente/material adicional utilizados durante las clases.
